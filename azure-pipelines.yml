@@ -24,5 +24,6 @@ steps:
     script: |
       # Write your commands here
       
+      xcodebuild --version
       echo 'Hello world'
       ls -R
