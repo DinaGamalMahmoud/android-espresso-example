@@ -17,6 +17,5 @@ steps:
       # Write your commands here
       
       xcode-select --print-path
-      xcodebuild --version 
       echo 'Hello world'
       ls -R
